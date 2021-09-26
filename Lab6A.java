@@ -8,7 +8,7 @@ public class Lab6A {
         int largest = Integer.MIN_VALUE;
         int[] numbers = new int[10];
 
-        System.out.println("Please enter 10 numbers and this program will display the largest.\n")
+        System.out.println("Please enter 10 numbers and this program will display the largest.\n");
 
         for (int i = 0; i < numbers.length; i++) {
             System.out.print("Please enter number " + (i + 1) + ": ");
